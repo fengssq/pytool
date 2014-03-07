@@ -1,10 +1,11 @@
 #!/usr/bin/python 
 #coding:utf-8 
-# 
+# -----------------------
 #time:2014-2-28 
 #write:Jack 
 #info:recommend example oday 
-# 
+#site:www.twowt.net
+# -----------------------
 
 import urllib, urllib2 
 import string, re 
